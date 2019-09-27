@@ -8,6 +8,13 @@
 Libraries, text books, etc.
 
 ------------------------------
+
 # Preparing 2: Tools for organizing your library 
 
 1. Mendeley [https://www.mendeley.com](https://www.mendeley.com)
+2. Papers 
+
+
+-----------------------------------------
+
+# Some background for the Key paper:
