@@ -6,4 +6,4 @@
 
 Presentations for Research Methods course
 
-[WP1](https://weiguangcui.github.io/ResearchMethods/WP1/)
+[WP1](https://weiguangcui.github.io/ResearchMethods/WP1/index.html)
