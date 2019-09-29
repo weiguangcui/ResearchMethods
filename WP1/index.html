@@ -116,6 +116,16 @@
         float: right;
         padding-top: 1em;
       }
+      .left-eq-column {
+        width: 50%;
+        float: left;
+        padding-top: 1em;
+      }
+      .right-eq-column {
+        width: 50%;
+        float: right;
+        padding-top: 1em;
+      }      
     </style>
   </head>
   <body>
@@ -190,21 +200,21 @@ template: inverse
 class: middle, center
 
 # the dark-matter simulation 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GzDlw8H6NpI" frameborder="1" allow="encrypted-media" allowfullscreen></iframe>
-<!-- <video width="560" height="420" controls autoplay>
-    <source src="LG4096-dm-evol-logo.avi" type="video/avi">
-</video> -->
-<!-- [CLUES](https://www.cosmosim.org/resources/simus/LG4096-dm-evol-logo.avi) -->
+.left-eq-column[
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GzDlw8H6NpI" frameborder="1" allow="encrypted-media" allowfullscreen></iframe>]
+.right-eq-column[
+![dm](MD-dm.png)
+]
 
 ---
+template: inverse
 # The weaklensing technique
 <div class="row">
  <div class="column">
-   <img src="Einstein_Ring.JPG" alt="Strong lensing" style="width:100%">
+   <img src="Einstein_Ring.JPG" alt="Strong lensing" style="width:50%">
  </div>
  <div class="column">
-   <img src="Weaklensing.png" alt="Weak lensing" style="width:100%">
+   <img src="Weaklensing.png" alt="Weak lensing" style="width:50%">
  </div>
 </div> 
 <!-- ![strong lensing](Einstein_Ring.JPG) -->
