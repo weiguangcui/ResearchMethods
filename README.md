@@ -6,4 +6,5 @@
 
 Presentations for Research Methods course
 
-[WP1](https://weiguangcui.github.io/ResearchMethods/WP1/index.html)
+[AnnoBib](https://weiguangcui.github.io/ResearchMethods/AnnoBib/index.html)
+[RefRep](https://weiguangcui.github.io/ResearchMethods/RefRep/index.html)
